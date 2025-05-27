@@ -20,7 +20,7 @@ Jupyter Notebook (for interactive development and analysis)
 Key Features:  
 
 Keyword Trend Over Time  
-   Pulls historical search interest for keywords  .
+   Pulls historical search interest for keywords  ,
    Plots time-series graphs of popularity.  
 Interest by Region  
    Displays which countries or states are most interested in the term.  
